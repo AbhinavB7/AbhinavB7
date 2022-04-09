@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Bhamidipati</h1>
-<h3 align="center">Engineering Student trying out new things.</h3>
+<h3 align="center">Engineering Student trying out new things. Artist too !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavb7&label=Profile%20views&color=72d322&style=plastic" alt="abhinavb7" /> </p>
 
