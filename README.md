@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Bhamidipati</h1>
-<h3 align="center">Engineering Student tryin out new things. Artist too !!</h3>
+<h3 align="center">Engineering Student trying out new things. Artist too !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavb7&label=Profile%20views&color=72d322&style=plastic" alt="abhinavb7" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhinavB7?tab=repositories](https://github.com/AbhinavB7?tab=repositories)
 
-- 📝 I post my artworks on [https://www.youtube.com/c/ArtisticAB](https://www.youtube.com/c/ArtisticAB)
+- 📝 I post my artworks on [https://in.pinterest.com/artistic_ab_/]
 
 - 📫 Reach me at **b.abhinavmohan@gmail.com**
 
