@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavb7&label=Profile%20views&color=72d322&style=plastic" alt="abhinavb7" /> </p>
 
-- 🔭 I’m currently working on **Final Year Engineering Project - Smart Glove**
+- 🔭 I’m currently working on **ROS 2 Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhinavB7?tab=repositories](https://github.com/AbhinavB7?tab=repositories)
 
