@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **ROS 2 Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbhinavB7?tab=repositories](https://github.com/AbhinavB7?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AbhinavB7](https://github.com/AbhinavB7)
 
 - 📝 I post my artworks on [https://in.pinterest.com/artistic_ab_/]
 
 - 📫 Reach me at **b.abhinavmohan@gmail.com**
 
-- 📫 LinkedIn Profile - [https://www.linkedin.com/in/abhinav-bhamidipati-815baa1b0/](https://www.linkedin.com/in/abhinav-bhamidipati-815baa1b0/) 
+- 📫 LinkedIn Profile - [https://www.linkedin.com/in/abhinav-bhamidipati/](https://www.linkedin.com/in/abhinav-bhamidipati/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
