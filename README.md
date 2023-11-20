@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Abhinav Bhamidipati</h1>
 <h3 align="center">Engineering Student | Artist </h3>
-<h3 align="center">Masters in Robotics at UMD</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavb7&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavb7" /> </p>
 
