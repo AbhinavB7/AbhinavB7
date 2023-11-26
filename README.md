@@ -13,7 +13,6 @@
 
 - Resume -> [link](https://drive.google.com/file/d/1IgL_r778ZQkDqUu90qhDB19iuuXFYlJu/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
