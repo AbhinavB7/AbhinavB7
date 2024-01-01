@@ -11,7 +11,7 @@
 
 - LinkedIn **https://www.linkedin.com/in/abhinav-bhamidipati/**
 
-- Resume -> [link]([https://drive.google.com/file/d/1IgL_r778ZQkDqUu90qhDB19iuuXFYlJu/view?usp=sharing](https://drive.google.com/file/d/1hJxci2zCfzoV4IcJ9sHiqEohNYvukNR9/view?usp=sharing))
+- Resume -> [link](https://drive.google.com/file/d/1hJxci2zCfzoV4IcJ9sHiqEohNYvukNR9/view?usp=sharing)
 
 <p align="left">
 </p>
