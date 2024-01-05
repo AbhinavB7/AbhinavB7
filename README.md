@@ -8,11 +8,11 @@
 ### About Me
 
 - 🤖 Currently working on **ROS 2 Projects**
+- 📄 Resume: [View my resume](https://drive.google.com/file/d/1p300GNRr7KKnYHkrKD5efs3TwCk7bpY8/view?usp=sharing)
+- 👔 LinkedIn: [Abhinav Bhamidipati](https://www.linkedin.com/in/abhinav-bhamidipati/)
 - 💻 LeetCode Profile: [abhinavb7](https://www.leetcode.com/abhinavb7/)
 - ✉️ Reach me at: [abhinav7@umd.edu](mailto:abhinav7@umd.edu)  [b.abhinavmohan@gmail.com](mailto:b.abhinavmohan@gmail.com)
-- 👔 LinkedIn: [Abhinav Bhamidipati](https://www.linkedin.com/in/abhinav-bhamidipati/)
-- 📄 Resume: [View my resume](https://drive.google.com/file/d/1p300GNRr7KKnYHkrKD5efs3TwCk7bpY8/view?usp=sharing)
-
+- 
 ### Languages and Tools
 
 <p align="center">
