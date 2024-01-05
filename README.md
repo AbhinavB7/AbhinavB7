@@ -12,7 +12,7 @@
 - 👔 LinkedIn: [Abhinav Bhamidipati](https://www.linkedin.com/in/abhinav-bhamidipati/)
 - 💻 LeetCode Profile: [abhinavb7](https://www.leetcode.com/abhinavb7/)
 - ✉️ Reach me at: [abhinav7@umd.edu](mailto:abhinav7@umd.edu)  [b.abhinavmohan@gmail.com](mailto:b.abhinavmohan@gmail.com)
-- 
+  
 ### Languages and Tools
 
 <p align="center">
