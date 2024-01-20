@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 🤖 Currently working on **ROS 2 Projects**
+- 🤖 Currently working on **ROS Projects**
 - 📄 Resume: [View my resume](https://drive.google.com/file/d/1p300GNRr7KKnYHkrKD5efs3TwCk7bpY8/view?usp=sharing)
 - 👔 LinkedIn: [Abhinav Bhamidipati](https://www.linkedin.com/in/abhinav-bhamidipati/)
 - 💻 LeetCode Profile: [abhinavb7](https://www.leetcode.com/abhinavb7/)
@@ -59,5 +59,6 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavb7&show_icons=true&locale=en&layout=compact" alt="abhinavb7" /></p>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavb7"" /></p>
