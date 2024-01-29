@@ -9,6 +9,7 @@
 ### About Me
 
 - 🤖 Currently working on **ROS Projects**
+- 🧑🏻‍💼 Portfolio: [Link](https://abhinavb7.github.io/)
 - 📄 Resume: [View my resume](https://drive.google.com/file/d/1p300GNRr7KKnYHkrKD5efs3TwCk7bpY8/view?usp=sharing)
 - 👔 LinkedIn: [Abhinav Bhamidipati](https://www.linkedin.com/in/abhinav-bhamidipati/)
 - 💻 LeetCode Profile: [abhinavb7](https://www.leetcode.com/abhinavb7/)
