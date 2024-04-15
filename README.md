@@ -15,7 +15,23 @@
 - 💻 LeetCode: [abhinavb7](https://www.leetcode.com/abhinavb7/)
 - ✉️ Reach me at: [abhinav7@umd.edu](mailto:abhinav7@umd.edu)  [b.abhinavmohan@gmail.com](mailto:b.abhinavmohan@gmail.com)
   
-### Languages and Tools
+### Skills
+
+
+
+
+<p align="center">
+  <a href="https://www.ros.org/">
+    <img height="30" alt="Robotics" src="https://img.shields.io/badge/-Robotics-00a3e0?style=plastic&logo=ros"/>
+  </a>
+  <a href="https://opencv.org/">
+    <img height="30" alt="Computer Vision" src="https://img.shields.io/badge/-Computer%20Vision-5c3ee8?style=plastic&logo=opencv"/>
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img height="30" alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-f39f37?style=plastic&logo=tensorflow"/>
+  </a>
+</p>
+
 
 <p align="center">
   <a href= "https://isocpp.org/">
@@ -41,6 +57,7 @@
   <img height="30" alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-99b931?style=plastic&logo=ubuntu"/>
   </a>
 </p>
+
 
 
 <p align="center">
