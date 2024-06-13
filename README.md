@@ -10,7 +10,7 @@
 
 - 🤖 Currently working on **ROS Projects**
 - 🧑🏻‍💼 Portfolio: [Link](https://abhinavb7.github.io/)
-- 📄 Resume: [View my resume](https://drive.google.com/file/d/1uYPLIMME1EJZQkmsGhclC-KUTpTTDNvd/view?usp=sharing)
+- 📄 Resume: [View my resume](https://drive.google.com/file/d/1y5y5qk8KMp8Ef1ovJ5mPkpz464RywjKW/view?usp=drive_link)
 - 👔 LinkedIn: [Abhinav Bhamidipati](https://www.linkedin.com/in/abhinav-bhamidipati/)
 - 💻 LeetCode: [abhinavb7](https://www.leetcode.com/abhinavb7/)
 - ✉️ Reach me at: [abhinav7@umd.edu](mailto:abhinav7@umd.edu)  [b.abhinavmohan@gmail.com](mailto:b.abhinavmohan@gmail.com)
