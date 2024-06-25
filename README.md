@@ -78,7 +78,5 @@
   </a>  
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavb7&show_icons=true&locale=en&layout=compact" alt="abhinavb7" /></p>
-
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavb7"" /></p>
