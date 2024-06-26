@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Abhinav Bhamidipati</h1>
+
+<h1 align="center">Hey, I'm Abhinav Bhamidipati
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">Engineering Student trying out new things. Artist too !!</h3>
 
 
@@ -6,14 +8,21 @@
   <img src="https://komarev.com/ghpvc/?username=abhinavb7&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavb7" />
 </p>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA2bDNqa2g5NXozaWZtMmVxemRsMGRiYm5jM3ExbG5mbmxsbWo3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtnxCnjWAOL1J6TNUR/giphy.gif"  height="200"/>
+</div>
+
+
 ### About Me
 
-- 🤖 Currently working on **ROS Projects**
+- 🤖 22 Yr Old
 - 🧑🏻‍💼 Portfolio: [Link](https://abhinavb7.github.io/)
-- 📄 Resume: [View my resume](https://drive.google.com/file/d/1y5y5qk8KMp8Ef1ovJ5mPkpz464RywjKW/view?usp=drive_link)
+- 📄 Resume: [View my resume](https://drive.google.com/file/d/1AP05yiUFf4bWWhDI-SplE6uKrWKcaLFO/view?usp=sharing)
 - 👔 LinkedIn: [Abhinav Bhamidipati](https://www.linkedin.com/in/abhinav-bhamidipati/)
 - 💻 LeetCode: [abhinavb7](https://www.leetcode.com/abhinavb7/)
 - ✉️ Reach me at: [abhinav7@terpmail.umd.edu](mailto:abhinav7@terpmail.umd.edu)  [b.abhinavmohan@gmail.com](mailto:b.abhinavmohan@gmail.com)
+
+
   
 ### Skills
 
@@ -80,3 +89,4 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavb7"" /></p>
+
