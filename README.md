@@ -15,9 +15,9 @@
 
 ### About Me
 
-- 🤖 22 Yr Old
+- 🤖 23 Yr Old
 - 🧑🏻‍💼 Portfolio: [Link](https://abhinavb7.github.io/)
-- 📄 Resume: [View my resume](https://drive.google.com/file/d/1G2qXAQFuUtraODWayX1yfHqA0GIEoT-A/view?usp=sharing)
+- 📄 Resume: [View my resume](https://drive.google.com/file/d/162RF-GkjgMczkX-UgVYkG5yCCtJ9GQ_S/view?usp=sharing)
 - 👔 LinkedIn: [Abhinav Bhamidipati](https://www.linkedin.com/in/abhinav-bhamidipati/)
 - 💻 LeetCode: [abhinavb7](https://www.leetcode.com/abhinavb7/)
 - ✉️ Reach me at: [abhinav7@terpmail.umd.edu](mailto:abhinav7@terpmail.umd.edu)  [b.abhinavmohan@gmail.com](mailto:b.abhinavmohan@gmail.com)
